@@ -1,13 +1,18 @@
 import './App.css';
+import Header from './header';
+import About from './about';
+import Projects from './projects';
+import Footer from './footer';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <p>
-        Bienvenue sur mon Portfolio
-        </p>
-      </header>
+      <Header />
+      <div className="content">
+        <About />
+        <Projects />
+      </div>
+      <Footer />
     </div>
   );
 }

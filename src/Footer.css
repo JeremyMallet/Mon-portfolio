@@ -1,0 +1,28 @@
+.footer {
+    background-color: #f2f2f2;
+    text-align: center;
+    padding: 20px 0;
+    font-size: 0.8em;
+}
+
+.footer a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #333;
+}
+
+.footer a i {
+    font-size: 1.5em;
+}
+
+.footer img {
+    height: 40px;
+    width: auto;
+    margin: 0 10px;
+}
+
+@media (max-width: 600px) {
+    .footer img {
+        height: 25px;
+    }
+}
