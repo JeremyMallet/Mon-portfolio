@@ -1,0 +1,25 @@
+.about {
+    padding: 20px;
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .about h2 {
+    font-size: 2em;
+  }
+  
+  .about p {
+    font-size: 1em;
+    line-height: 1.5;
+  }  
+  
+  .about ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .about li {
+    margin: 10px 0;
+  }
+  
