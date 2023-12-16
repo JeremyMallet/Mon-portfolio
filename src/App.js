@@ -1,8 +1,9 @@
 import './App.css';
-import Header from './header';
-import About from './about';
-import Projects from './projects';
-import Footer from './footer';
+import Header from './Header';
+import About from './About';
+import Projects from './Projects';
+import Footer from './Footer';
+import Contact from './Contact';
 
 function App() {
   return (

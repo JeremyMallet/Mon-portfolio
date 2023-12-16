@@ -27,11 +27,16 @@ function About() {
     <li>CSS</li>
     <li>JavaScript</li>
     <li>React</li>
+    <li>JSX</li>
+    <li>Tailwind</li>
+    <li>Strapi</li>
+    <li>Next</li>
     <li>Node.js</li>
     <li>Express</li>
     <li>SQL</li>
     <li>Git</li>
     <li>GitHub</li>
+    <li>Figma</li>
     <li>...</li>
     </ul>
     </div>
