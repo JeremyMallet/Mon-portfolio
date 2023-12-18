@@ -15,12 +15,26 @@ function Projects() {
     {
       name: "AGM Verrières",
       description: "Site de vente de verrières sur mesure, incluant un configurateur de projet, authentification, paiement via Stripe et gestion back-end avec Strapi.",
-      technologies: ["React", "Node", "Strapi", "Stripe"],
+      technologies: ["React", "Node", "Strapi", "Stripe, Typescript, Next.js, TailwindCSS, JavaScript"],
       link: "https://agm-verrieres.fr",
       image: "/AGMLogo.png"
     },
     {
-      name: "Autre Projet",
+      name: "Projet 2",
+      description: "Blablabla",
+      technologies: ["Technologie 1", "Technologie 2"],
+      link: "lien-vers-autre-projet",
+      image: "/chemin-vers-logo-autre-projet.png"
+    },
+    {
+      name: "Projet 3",
+      description: "Blablabla",
+      technologies: ["Technologie 1", "Technologie 2"],
+      link: "lien-vers-autre-projet",
+      image: "/chemin-vers-logo-autre-projet.png"
+    },
+    {
+      name: "Projet 4",
       description: "Blablabla",
       technologies: ["Technologie 1", "Technologie 2"],
       link: "lien-vers-autre-projet",

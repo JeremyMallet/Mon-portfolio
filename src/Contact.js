@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './Contact.css'; // Assurez-vous de créer ce fichier CSS
+import './Contact.css';
 
 function Contact() {
   const [formData, setFormData] = useState({
@@ -15,9 +15,7 @@ function Contact() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    // Ici, vous pouvez gérer l'envoi des données du formulaire
     console.log(formData);
-    // Réinitialiser le formulaire ou afficher un message de succès
   };
 
   return (
